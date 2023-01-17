@@ -1,4 +1,4 @@
-<img alt="" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello+Welcome+To+UGPS;Unblocked+Games+And+Proxies;For+Students">
+<img alt="IMG_7288.jpg" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello+Welcome+To+UGPS;Unblocked+Games+And+Proxies;For+Students">
 
 <h1>Our Members</h1>
 PurePro4561 https://purepro4561.github.io
